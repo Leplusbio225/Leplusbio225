@@ -8,5 +8,5 @@
 >My Hobbies:</br>
 >>Music🎧</br>
 >>Coding💻</br>
->>Reading📖</br>
 >>Learning📚
+>>Gaming🎮
