@@ -1,130 +1,72 @@
-# 👋 Hello, moi c’est KACOU EMMANUEL 👨🏾‍💻🇨🇮
+# Hey, I'm Emmanuel Kacou 👋🏾
 
-Développeur full-stack & **product builder** basé en Côte d’Ivoire.  
-Je conçois des **produits digitaux utiles, ancrés dans les réalités locales**, avec une obsession : **résoudre de vrais problèmes grâce à la tech**.  
-Je suis aussi un passionné de **musique, gaming et apprentissage continu**. 🎧🎮📚
+Full-stack developer and product builder based in Abidjan, Côte d'Ivoire 🇨🇮
 
----
-
-## 🧠 Ce que je fais
-
-- Je transforme des idées en **produits concrets**
-- Je développe des applications **web & mobile**
-- Je construis pour l’Afrique, avec des standards internationaux
-- J’itère vite, je pivote quand il faut, je **ship toujours**
+I design and ship digital products rooted in real African contexts — with international standards.  
+Currently learning **Rust 🦀** — because when you build infrastructure that matters, performance and safety aren't optional.
 
 ---
 
-## 🧩 Projets clés
+## What I do
 
-### 🟧 Abiaty Ma News
-> Canal officiel d’information et de mémoire du village d’Abiaty  
-- Actualités communautaires
-- Annonces officielles
-- Événements culturels
-- Lien village ↔ diaspora
-
-### 🟦 SANWI CONNECT
-> Réseau social communautaire du peuple Sanwi  
-- Publications sociales
-- Interactions communautaires
-- Culture, entraide, souvenirs
-- Connexion entre villages et diaspora
-
-### 🟩 X-Connect (Networking P2P)
-> Application de réseautage **peer-to-peer** sans dépendance totale à Internet  
-- Échange de profils via QR Code / proximité
-- Partage instantané de contacts (LinkedIn, portfolio, réseaux)
-- Mode hybride (P2P + sync serveur)
-- Pensé pour événements, meetups et contextes à faible connectivité
-
-### 🟨 Autres projets
-- Solutions de billetterie & guichet virtuel
-- Applications de mise en relation
-- Prototypes SaaS orientés productivité & IA
-  
-### 🪼 Applications web en production pour entreprises & particuliers
-- www.geniusntech.com
-- www.coopewo.org
-- www.attron-cab.com
+- Turn ideas into concrete, shippable products
+- Build web & mobile applications
+- Build for Africa, with global standards
+- Iterate fast, pivot when needed, **always ship**
 
 ---
 
-## 🛠️ Stack technique
+## Stack
 
-**Backend**  
-- PHP / Laravel (API REST)  
-- Authentification, rôles & permissions  
-- Architecture modulaire et scalable  
-
-**Frontend**  
-- React / React Native  
-- Vue.js / Nuxt  
-- Interfaces orientées UX mobile-first  
-
-**Data & outils**  
-- PostgreSQL / MySQL  
-- Git / GitHub  
-- Docker (bases)  
-- Notions de Machine Learning & IA  
+| Layer | Technologies |
+|---|---|
+| **Backend** | PHP · Laravel · AdonisJS |
+| **Frontend** | React · React Native · Vue.js · Nuxt · TailwindCSS |
+| **Data & DevOps** | PostgreSQL · MySQL · Docker (beginner) · Git |
+| **Exploring** | Rust 🦀 · Machine Learning · AI Agents · Blockchain |
 
 ---
 
-## 🧠 Philosophie produit
+## Key projects
 
-> *“Un bon produit ne commence pas par le code, mais par une frustration réelle.”*
+**Abiaty Ma News** — Community news and memory platform for the village of Abiaty  
+**SANWI CONNECT** — Social network for the Sanwi community  
+**X-Connect** — Peer-to-peer networking app for low-connectivity contexts
 
-Je privilégie :  
-- la clarté avant la complexité  
-- l’utilité avant la hype  
-- le terrain avant les slides  
-
----
-
-## 🌍 Pourquoi je construis
-
-Je crois que :  
-- la tech peut **reconnecter les communautés**  
-- les villages africains ont aussi droit à des produits modernes  
-- l’impact local peut avoir une portée globale  
+### In production
+- [geniusntech.com](https://www.geniusntech.com)
+- [coopewo.org](https://www.coopewo.org)
+- [attron-cab.com](https://www.attron-cab.com)
 
 ---
 
-## 📚 À côté du code
+## Currently
 
-- 🎧 Musique  
-- 💻 Coding & exploration de nouvelles technos  
-- 📚 Apprentissage continu  
-- 🎮 Gaming  
-
----
-
-## 📈 En ce moment
-
-- 🔨 Construction de produits communautaires (News & Social)  
-- 🌐 Exploration du networking P2P et des systèmes hybrides  
-- 📚 Montée en compétences IA & data  
-- 🧭 Mode fondateur activé  
+- 🔨 Building Abiaty Ma News — Laravel API + React Native
+- 🦀 Learning Rust — blockchain, Distributed systems, Rustavel
+- 🤖 Exploring AI Agents — n8n + LangChain + FastAPI
+- 🧭 Founder mode activated
 
 ---
 
-## 🤝 Travaillons ensemble
+## Philosophy
 
-- 💼 Freelance / missions  
-- 🤝 Co-création de produits  
-- 💡 Discussions produit & tech  
+> *"A good product doesn't start with code — it starts with a real frustration."*
 
-📫 **Contact** : via GitHub / LinkedIn / Whatsapp
- - Linkedin: www.linkedin.com/in/emmanuel-kacou-74397b247
- - Email: kacouemmanuel225@yahoo.com
- - Whatsapp: +2250757567142
+Clarity over complexity. Utility over hype. Field over slides.
 
 ---
 
-⭐️ Explore mes repositories, fork, commente ou discute.  
-On construit. Ensemble.
+## Let's work together
+
+Open to freelance missions, product co-creation, and tech discussions.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emmanuel_Kacou-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/emmanuel-kacou-74397b247)
+[![Email](https://img.shields.io/badge/Email-kacouemmanuel225@yahoo.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kacouemmanuel225@yahoo.com)
+[![WhatsApp Pro](https://img.shields.io/badge/WhatsApp-%2B2250150149912-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/2250150149912)
 
 ---
-- 🥷: Trust The Process
-- 🚀: Keep pushing & Level Up
-- 👾: Nerd Among Geek - @manouthenerd
+
+*Explore, fork, discuss, build. On construit. Ensemble.* 🌍
+
+`🥷 Trust The Process` · `🚀 Keep pushing & Level Up` · `👾 Linux & Rust Lover 😍` · `🦀 Be More Rusty Everyday`
