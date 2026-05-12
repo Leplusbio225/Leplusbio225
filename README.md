@@ -67,6 +67,4 @@ Open to freelance missions, product co-creation, and tech discussions.
 
 ---
 
-*Explore, fork, discuss, build. On construit. Ensemble.* 🌍
-
 `🥷 Trust The Process` · `🚀 Keep pushing & Level Up` · `👾 Linux & Rust Lover 😍` · `🦀 Be More Rusty Everyday`
